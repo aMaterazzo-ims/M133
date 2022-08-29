@@ -13,7 +13,7 @@ Ich habe gelernt wie man in JSF ein GIF implementiert und diesen als Link benutz
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rCrA9U2QL18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/rCrA9U2QL18
 
 ## Verifikation
 
