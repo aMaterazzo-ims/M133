@@ -11,7 +11,6 @@ Ich habe gelernt wie man in JSF ein GIF implementiert und diesen als Link implem
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 ![Minions](giphy.gif)
 
@@ -41,4 +40,4 @@ Die Beschreibung zeigt das ich weiss was der Code tut und Ihn nicht einfach vom 
 
 👎 Am Anfang wollte mein Projekt nicht starten, nach etwa 10 minuten habe ich gemerkt das ich JDK 16 anstatt JDK 1.8 ausgewählt hatte🤦🏻‍♂️
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Nächstes mal sollte ich von Anfang an überprüfen, welches JDK ausgewäht wurde.
