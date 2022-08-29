@@ -36,8 +36,8 @@ Die Beschreibung zeigt das ich weiss was der Code tut und Ihn nicht einfach vom 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Da wir schon mehrere Module mit HTML hatten war es nicht schwierig für mich dies so umzusetzten.
+👍 Da wir schon mehrere Module mit HTML hatten, war es nicht schwierig für mich dies so umzusetzten.
 
-👎 Am Anfang wollte mein Projekt nicht starten, nach etwa 10 minuten habe ich gemerkt das ich JDK 16 anstatt JDK 1.8 ausgewählt hatte🤦🏻‍♂️
+👎 Am Anfang wollte mein Projekt nicht starten, nach etwa 10 Minuten habe ich gemerkt das ich JDK 16 anstatt JDK 1.8 ausgewählt hatte🤦🏻‍♂️
 
 **VBV**: Nächstes mal sollte ich von Anfang an überprüfen, welches JDK ausgewäht wurde.
